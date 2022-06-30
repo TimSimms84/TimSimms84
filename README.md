@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Tim.
-### He/Him
 
 ## :technologist: About Me
 
@@ -7,6 +6,11 @@
 - :spider_web: Currently in the third trimester: Frontend Web Development 
 - :man_teacher: Student Tutor at Holberton for peers in younger cohorts.
 - 😄 Pronouns: He/Him
+
+
+<!--START_SECTION:activity--> 
+
+
 
 
 
