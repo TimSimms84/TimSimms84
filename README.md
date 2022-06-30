@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Tim.
+### He/Him
+
+## :technologist: About Me
+
+- :computer: Full Stack Web Development Student at Holberton Tulsa
+- :spider_web: Currently in the third trimester: Frontend Web Development 
+- :man_teacher: Student Tutor at Holberton for peers in younger cohorts.
+- 😄 Pronouns: He/Him
+
+
 
 <!--
 **TimSimms84/TimSimms84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
