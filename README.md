@@ -7,6 +7,17 @@
 - :man_teacher: Student Tutor at Holberton for peers in younger cohorts.
 - 😄 Pronouns: He/Him
 
+## :rocket: Skills
+
+Here are some of the technologies and tools I've worked with:
+
+- Frontend: HTML, CSS, JavaScript, React, Bootstrap, Tailwind
+- Backend: Python, Flask, FastAPI, MySQL, Mongoose
+- Other: Git, Bash
+
+Feel free to check out my GitHub repositories to see some of my projects in action! :muscle:
+
+
 
 <!--START_SECTION:activity--> 
 
