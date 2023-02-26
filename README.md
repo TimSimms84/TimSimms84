@@ -3,7 +3,7 @@
 ## :technologist: About Me
 
 - :computer: Full Stack Web Development Student at Holberton Tulsa
-- :spider_web: Currently in the third trimester: Frontend Web Development 
+- :spider_web: Currently in the fifth trimester: graduation in April.
 - :man_teacher: Student Tutor at Holberton for peers in younger cohorts.
 - 😄 Pronouns: He/Him
 
