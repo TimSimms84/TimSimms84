@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tim.
 
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?TimSimms84&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?Username=TimSimms84&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :technologist: About Me
 
